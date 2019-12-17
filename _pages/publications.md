@@ -3,13 +3,13 @@ layout: page
 permalink: /publications/
 title: 
 ---
-##### peer reviewed publications
+### peer reviewed publications
 2.Eidam, E.F., D.A. Sutherland, D.K. Ralston, B. Dye, **T. Conroy**, J. Schmitt, P. Ruggiero, and J. Wood, 2019: Impacts of 150 years of shoreline and bathymetric change in the Coos Estuary, Oregon, USA. *Estuaries and Coasts*, in review.
 at .
 
 1.**Conroy, T.**, D.A. Sutherland, and D.K. Ralston, 2019: Estuarine exchange flow variability in a seasonal, segmented estuary. *J. Phys. Oceanog.*, accepted.
 
-##### conference presentations
+### conference presentations
 
 Shifts in sediment routing and deposition associated with 150 years of estuary modification in Coos Bay, Oregon. E. Eidam, D. Sutherland, D. Ralston, B. Dye, **T. Conroy**. Talk. Ocean Sciences Meeting 2020. San Diego, CA.
 
