@@ -1,18 +1,18 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: Ted Conroy
+description: <a href="">Affiliations</a>. physical oceanographer
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>?</p>
+    # <p>123 your address street</p>
+    # <p>Your City, State 12345</p>
 
-news: true
+news: false
 social: true
 ---
 
