@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: Ted Conroy
-description: <a href="">Affiliations</a>. physical oceanographer
+description: <a href=""></a>. physical oceanographer
 
 profile:
   align: right
