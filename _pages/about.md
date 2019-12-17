@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: Ted Conroy
-description: <a href=""></a>. physical oceanographer
+description: <a href=""></a>physical oceanographer
 
 profile:
   align: right
@@ -16,4 +16,4 @@ social: true
 
 I study physical oceanography in coastal areas. 
 
-You can view my cv here, and explore the site for more details about my research, etc. 
+Explore the site for more details about my research, etc. 
