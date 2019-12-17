@@ -9,10 +9,10 @@ profile:
   image: prof_pic.jpg
   address: >
     <p>?</p>
-    # <p>123 your address street</p>
-    # <p>Your City, State 12345</p>
+    <p>123 your address street</p>
+    <p>Your City, State 12345</p>
 
-news: false
+news: true
 social: true
 ---
 
