@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project 4
-description: another without an image
+title: Historical Coos Estuary
+description: 
 img:
 ---
 
