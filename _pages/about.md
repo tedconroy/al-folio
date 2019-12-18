@@ -15,5 +15,3 @@ social: true
 ---
 
 I study physical oceanography in coastal areas. 
-
-Explore the site for more details about my research, etc. 
