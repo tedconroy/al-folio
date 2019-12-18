@@ -9,13 +9,7 @@ In my free time I enjoy surfing, being in the mountains, and climbing rocks. My 
 </div>
 
 <div class="img_row">
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/mountains_1.jpeg" alt="" title="example image"/>
+    <img class="col two left" src="{{ site.baseurl }}/assets/img/mountains_1.jpeg" alt="" title="example image"/>
     <img class="col one left" src="{{ site.baseurl }}/assets/img/climbing_1.jpeg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/boulder_1.jpg" alt="" title="found boulder"/>
 </div>
-
-
-
-
-
 
