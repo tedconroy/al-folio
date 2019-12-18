@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: Ted Conroy
-description: physical oceanographer
+description: 
 
 profile:
   align: right
