@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-description:
+title:%%%%%%%%%%
 ---
 
 ## publications
