@@ -22,7 +22,7 @@ The Total Exchange Flow method (MacCready 2011) was used to quantify the estuari
 
 This work is now published in the Journal of Physical Oceanography with coauthors Dave Sutherland and [Dave Ralston](https://www2.whoi.edu/staff/dralston/).
 
-**References**
+**References**----------------------------------
 
 Sutherland, D.A. and O'Neill, M.A., 2016. Hydrographic and dissolved oxygen variability in a seasonal Pacific Northwest estuary. Estuarine, Coastal and Shelf Science, 172, pp.47-59.
 
