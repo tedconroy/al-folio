@@ -5,39 +5,25 @@ description: numerical modeling / estuarine exchange flow
 img: /assets/img/coos_1.jpeg
 ---
 
-<div class="img_row">
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/1.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/2.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/3.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-    <img class="col three left" src="{{ site.baseurl }}/assets/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    This image can also have a caption. It's like magic.
-</div>
+**Hydrodynamics of the Coos Estuary, Oregon**
 
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
+I worked with [Dave Sutherland](https://www.oceanice.org) and used the [Finite Volume Coastal Ocean Model](http://fvcom.smast.umassd.edu/fvcom/) (FVCOM) for the Coos Estuary in Oregon. The freshwater input into the Coos estuary, and subsequently the hydrography of the estuary and along estuary baroclinic pressure gradient, is highly seasonal (Sutherland and O'Neil 2016), begging the question of how does the estuarine exchange flow, the tidally averaged water movement, change through out the year? To answer this and other questions about the hydrodynamics and hydrography of the Coos Estuary, we set up FVCOM using high resolution bathymetry mapped onto a high resolution unstructured grid, and ran the model on the University of Oregons supercomputer [Talapas](https://hpcf.uoregon.edu/content/talapas).
 
+![bathymetry](./bathy.tif)
+*Bathymetry of the estuary (m), showing in-situ observation locations (black), freshwater inputs in the model (blue), and distances from the mouth in km (red).*
 
-<div class="img_row">
-    <img class="col two left" src="{{ site.baseurl }}/assets/img/6.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/11.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+The video below is surface salinity (psu) during one of the largest discharge events of 2014 (total freshwater influx was around 800 cubic meters per second), over the course of roughly a week.
 
+<video width="960" height="720" controls>
+  <source src="sss.mov" type="video/mp4">
+</video>
 
-<br/><br/>
+The Total Exchange Flow method (MacCready 2011) was used to quantify the estuarine exchange flow for an annual model run. This method is advantageous because it incorporates both tidal and subtidal motions by using a salinity coordinate instead of an Eulerian coordinate for calculating the exchange flow through cross sections in the estuary. Using the Total Exchange Flow, we found that the tidal component is the dominant component (compared with the subtidal), and that although the along estuary baroclinic pressure gradient changes quite a bit over the year, the exchange flow doesn't change very much seasonally, but rather with the spring-neap cycle.
 
+This work is now published in the Journal of Physical Oceanography with coauthors David Sutherland and [Dave Ralston](https://www2.whoi.edu/staff/dralston/).
 
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above:
+**References**
 
-<div class="img_row">
-    <img class="col two left" src="/img/6.jpg"/>
-    <img class="col one left" src="/img/11.jpg"/>
-</div>
+Sutherland, D.A. and O'Neill, M.A., 2016. Hydrographic and dissolved oxygen variability in a seasonal Pacific Northwest estuary. Estuarine, Coastal and Shelf Science, 172, pp.47-59.
+
+MacCready, P., 2011. Calculating estuarine exchange flow using isohaline coordinates. Journal of Physical Oceanography, 41(6), pp.1116-1124.
