@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Coos Estuary
-description: numerical modeling/ estuarine dynamics
+title: Coos Estuary 
+description: estuarine dynamics
 img: /assets/img/coos_1.jpeg
 ---
 
