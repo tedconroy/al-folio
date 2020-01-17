@@ -19,3 +19,12 @@ I study physical oceanography in coastal areas.
     <img class="col two left" src="{{ site.baseurl }}/assets/img/leconte_1.jpeg" alt="" title="example image"/>
     <img class="col one right" src="{{ site.baseurl }}/assets/img/prof_pic.jpg" alt="" title="example image"/>
 </div>
+
+<div class="img_row">
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/pic_3.jpeg" alt="" title="example image"/>
+    <img class="col two right" src="{{ site.baseurl }}/assets/img/coos_1.jpeg" alt="" title="example image"/>
+</div>
+
+<div class="img_row">
+    <img class="col three left" src="{{ site.baseurl }}/assets/img/sat_1.jpeg" alt="" title="example image"/>
+</div>
