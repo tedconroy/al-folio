@@ -15,6 +15,7 @@ social: true
 ---
 
 I study physical oceanography in coastal areas. 
+
 <div class="img_row">
-    <img class="col three left" src="{{ site.baseurl }}/assets/img/leconte_1.jpeg" alt="" title="pic"/>
+    <img class="col two left" src="{{ site.baseurl }}/assets/img/leconte_1.jpeg" alt="" title="example image"/>
 </div>
