@@ -2,7 +2,7 @@
 layout: page
 title: Coos Estuary 
 description: estuarine dynamics
-img: /assets/img/coos_1.jpeg
+img: /assets/img/coos_2.jpeg
 ---
 
 **Hydrodynamics of the Coos Estuary, Oregon**
