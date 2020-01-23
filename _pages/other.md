@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /other/
+permalink: /bio/
 title: bio
 ---
 I grew up in Half Moon Bay, California, and then went to the University of Hawaii at Manoa for an undergraduate degree and the University of Oregon for a Masters degree.
