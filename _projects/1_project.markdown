@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Coos Estuary 
-description: estuarine dynamics
+title: Coos Estuary dynamics
 img: /assets/img/coos_2.jpeg
 ---
 
