@@ -9,7 +9,7 @@ img: /assets/img/coos_2.jpeg
 
 I worked with [Dave Sutherland](https://www.oceanice.org) and used the [Finite Volume Coastal Ocean Model](http://fvcom.smast.umassd.edu/fvcom/) (FVCOM) for the Coos Estuary in Oregon. The freshwater input into the Coos estuary, and subsequently the hydrography of the estuary and along estuary baroclinic pressure gradient, is highly seasonal (Sutherland and O'Neil 2016), begging the question of how does the estuarine exchange flow, the tidally averaged water movement, change through out the year? To answer this and other questions about the hydrodynamics and hydrography of the Coos Estuary, we set up FVCOM using high resolution bathymetry mapped onto a high resolution unstructured grid, and ran the model on the University of Oregons supercomputer [Talapas](https://hpcf.uoregon.edu/content/talapas).
 
-<img src="/assets/img/bathy.tif" alt="bathymetry" width="200"/>
+<img src="/assets/img/bathy.tif" alt="bathymetry" width="1000"/>
 *Bathymetry of the estuary (m), showing in-situ observation locations (black), freshwater inputs in the model (blue), and distances from the mouth in km (red).*
 
 The video below is surface salinity (psu) during one of the largest discharge events of 2014 (total freshwater influx was around 800 cubic meters per second), over the course of roughly a week.
