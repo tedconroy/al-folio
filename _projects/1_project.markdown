@@ -4,8 +4,6 @@ title: Coos Estuary dynamics
 img: /assets/img/coos_2.jpeg
 ---
 
-**Hydrodynamics of the Coos Estuary, Oregon**
-
 <div class="img_row">
     <img class="col one left" src="{{ site.baseurl }}/assets/img/pic1.png" alt="" title="example image"/>
     <img class="col two right" src="{{ site.baseurl }}/assets/img/pic3.jpeg" alt="" title="example image"/>
