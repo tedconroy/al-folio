@@ -5,7 +5,7 @@ img: /assets/img/coos_2.jpeg
 ---
 
 <div class="img_row">
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/pic1.png" alt="" title="example image"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/pic2.png" alt="" title="example image"/>
     <img class="col two right" src="{{ site.baseurl }}/assets/img/pic3.jpeg" alt="" title="example image"/>
 </div>
 
@@ -13,7 +13,6 @@ I worked with [Dave Sutherland](https://www.oceanice.org) and used the [Finite V
 
 <img src="/assets/img/bathy.tif" alt="bathymetry" width="900"/>
 *Bathymetry of the estuary (m), showing in-situ observation locations (black), freshwater inputs in the model (blue), and distances from the mouth in km (red).*
-
 
 The Total Exchange Flow method (MacCready 2011) was used to quantify the estuarine exchange flow for an annual model run. This method is advantageous because it incorporates both tidal and subtidal motions by using a salinity coordinate instead of an Eulerian coordinate for calculating the exchange flow through cross sections in the estuary. Using the Total Exchange Flow, we found that the tidal component is the dominant component (compared with the subtidal), and that although the along estuary baroclinic pressure gradient changes quite a bit over the year, the exchange flow doesn't change very much seasonally, but rather with the spring-neap cycle.
 
