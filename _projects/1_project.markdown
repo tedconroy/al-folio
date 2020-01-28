@@ -14,6 +14,7 @@ I worked with [Dave Sutherland](https://www.oceanice.org) and used the [Finite V
 <img src="/assets/img/bathy.tif" alt="bathymetry" width="900"/>
 *Bathymetry of the estuary (m), showing in-situ observation locations (black), freshwater inputs in the model (blue), and distances from the mouth in km (red).*
 
+
 The Total Exchange Flow method (MacCready 2011) was used to quantify the estuarine exchange flow for an annual model run. This method is advantageous because it incorporates both tidal and subtidal motions by using a salinity coordinate instead of an Eulerian coordinate for calculating the exchange flow through cross sections in the estuary. Using the Total Exchange Flow, we found that the tidal component is the dominant component (compared with the subtidal), and that although the along estuary baroclinic pressure gradient changes quite a bit over the year, the exchange flow doesn't change very much seasonally, but rather with the spring-neap cycle.
 
 This work is [now published in the Journal of Physical Oceanography](https://journals.ametsoc.org/doi/abs/10.1175/JPO-D-19-0108.1) with coauthors Dave Sutherland and [Dave Ralston](https://www2.whoi.edu/staff/dralston/).
