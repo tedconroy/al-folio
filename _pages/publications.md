@@ -9,6 +9,7 @@ title: publications
 
 1\. **Conroy, T.**, D.A. Sutherland, and D.K. Ralston, 2019: Estuarine exchange flow variability in a seasonal, segmented estuary. *Journal of Physical Oceanography*, https://doi.org/10.1175/JPO-D-19-0108.1.
 
+---
 ## conference presentations
 
 Shifts in sediment routing and deposition associated with 150 years of estuary modification in Coos Bay, Oregon. E. Eidam, D. Sutherland, D. Ralston, B. Dye, **T. Conroy**. Talk. Ocean Sciences Meeting 2020. San Diego, CA.
