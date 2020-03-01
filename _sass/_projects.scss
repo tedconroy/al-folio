@@ -25,7 +25,7 @@
             width: 100%;
 
             span {
-                display: none;
+                display: block;
                 position: absolute;
                 top: 0;
                 left: 0;
@@ -43,12 +43,6 @@
 
                 p {
                     color: $grey-color-light;
-                }
-            }
-
-            &:hover {
-                span {
-                    display: block;
                 }
             }
         }
