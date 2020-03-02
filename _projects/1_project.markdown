@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Coos Estuary dynamics
-img: /assets/img/thumb_coos.jpeg
+img: /assets/img/coos_thumb_1.jpeg
 ---
 
 <div class="img_row">
