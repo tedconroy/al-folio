@@ -9,7 +9,7 @@ Like many estuaries, the Coos Estuary in Oregon has undergone significant develo
 
 Using historic navigation charts, shoreline position and a bathymetry data were extracted to create a time series of change until the present state. The estuarine area has decreased, yet the volume of the estuary has increased due to dredging.
 
-<img src="/assets/img/FIg4_Bathy_thalweg_transect.pdf" alt="bathymetry" width="700"/>
+<img src="/assets/img/FIg4_Bathy_thalweg_transect.pdf" alt="bathymetry" width="600"/>
 
 A numerical ocean model of the estuary was used with three configurations: 1) pre-dredging state, 2) current state, and 3) proposed state with a deeper navigation channel. It was found that the deepening has altered the tidal dynamics and increased the salinity intrusion into the estuary. Although the tidal salt flux is the dominant landward salt flux component (Conroy et. al 2020), the increase in depth has increased the subtidal salt flux component, decreased the tidal salt flux component, and the total landward salt flux has increased, increasing the salinity intrusion.
 
