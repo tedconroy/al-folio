@@ -7,7 +7,7 @@ img: /assets/img/coos_thumb_2.png
 
 Like many estuaries, the Coos Estuary in Oregon has undergone significant development and modification in the last 150 years. The goal of this work was to understand how the physical modification of the estuary, including shoreline and bathymetry change, has altered the tidal propagation and fluxes of salt throughout the estuary, which are key to understanding the transport and salinity distribution in the estuary.
 
-Using historic navigation charts, shoreline position and a bathymetry data were extracted to create a time series of change until the present state. The estuarine area has decreased, yet the volume of the estuary has increased due to dredging.
+Using historic navigation charts, shoreline position and a bathymetry data were extracted to create a time series of change until the present. The estuarine area has decreased, yet the volume of the estuary has increased due to dredging.
 
 <img src="/assets/img/FIg4_Bathy_thalweg_transect.pdf" alt="bathymetry" width="600"/>
 
