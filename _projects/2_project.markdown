@@ -18,6 +18,7 @@ The reduction in tidal salt flux is consistent with being proportional to the al
 This work was led by [Dr. Emily Eidam](https://marine.unc.edu/people/faculty/emily-eidam/) and has now been accepted at Estuaries and Coasts.
 
 **References**----------------------------------
+
 Conroy, T., Sutherland, D.A. and Ralston, D.K., 2020. Estuarine exchange flow variability in a seasonal, segmented estuary. Journal of Physical Oceanography.
 
 Ralston, D.K. and Geyer, W.R., 2019. Response to Channel Deepening of the Salinity Intrusion, Estuarine Circulation, and Stratification in an Urbanized Estuary. Journal of Geophysical Research: Oceans, 124(7), pp.4784-4802.
