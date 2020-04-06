@@ -3,7 +3,7 @@ layout: page
 permalink: /bio/
 title: bio
 ---
-I grew up in Half Moon Bay, California. I went to the University of Hawaii at Manoa for an undergraduate degree (thesis with Dr.  Brian Powell), and to the U. of Oregon for a Masters degree (thesis with Dr. David Sutherland). I am currently a PhD student at the University of Waikato in New Zealand, working with Dr. Karin Bryan.
+I grew up in Half Moon Bay, California. I went to the University of Hawaii at Manoa for an undergraduate degree (thesis with Dr.  Brian Powell), and to the University of Oregon for a Masters degree (thesis with Dr. David Sutherland). I am currently a PhD student at the University of Waikato in New Zealand, working with Dr. Karin Bryan.
 
 In my free time I enjoy surfing, being in the mountains, and climbing rocks. 
 <div class="img_row">
