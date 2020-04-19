@@ -11,7 +11,11 @@ img: /assets/img/coos_thumb_1.jpeg
 
 I worked with [Dave Sutherland](https://www.oceanice.org) and used the [Finite Volume Coastal Ocean Model](http://fvcom.smast.umassd.edu/fvcom/) (FVCOM) for the Coos Estuary in Oregon. The freshwater input into the Coos estuary, and subsequently the hydrography of the estuary and along estuary baroclinic pressure gradient, is highly seasonal (Sutherland and O'Neil 2016), begging the question of how does the estuarine exchange flow, the tidally averaged water movement, change through out the year? To answer this and other questions about the hydrodynamics and salt distribution of the Coos Estuary, we set up FVCOM using high resolution bathymetry mapped onto a high resolution unstructured grid.
 
-<img src="/assets/pdf/Fig1.pdf" alt="bathymetry" width="900"/>
+<object data="/assets/pdf/Fig1.pdf" type="application/pdf" width="900px">
+    <embed src="/assets/pdf/Fig1.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 The Total Exchange Flow method (MacCready 2011) was used to quantify the estuarine exchange flow for an annual model run. This method is advantageous because it incorporates both tidal and subtidal motions by using a salinity coordinate instead of an Eulerian coordinate for calculating the exchange flow through cross sections in the estuary. Using the Total Exchange Flow, we found that the tidal component is the dominant component (compared with the subtidal), and that although the along estuary baroclinic pressure gradient changes quite a bit over the year, the inflowing component of the exchange flow doesn't change very much seasonally, but rather with the spring-neap cycle.
 
