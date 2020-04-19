@@ -11,7 +11,7 @@ img: /assets/img/coos_thumb_1.jpeg
 
 I worked with [Dave Sutherland](https://www.oceanice.org) and used the [Finite Volume Coastal Ocean Model](http://fvcom.smast.umassd.edu/fvcom/) (FVCOM) for the Coos Estuary in Oregon. The freshwater input into the Coos estuary, and subsequently the hydrography of the estuary and along estuary baroclinic pressure gradient, is highly seasonal (Sutherland and O'Neil 2016), begging the question of how does the estuarine exchange flow, the tidally averaged water movement, change through out the year? To answer this and other questions about the hydrodynamics and salt distribution of the Coos Estuary, we set up FVCOM using high resolution bathymetry mapped onto a high resolution unstructured grid.
 
-<object data="/assets/pdf/Fig1.pdf" type="application/pdf" width="900px">
+<object data="/assets/pdf/Fig1.pdf" type="application/pdf" width="900px" height="1100px">
     <embed src="https://github.com/tedconroy/tedconroy.github.io/tree/master">
     </embed>
 </object>
