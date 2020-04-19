@@ -9,7 +9,7 @@ Like many estuaries, the Coos Estuary in Oregon has undergone significant develo
 
 Using historic navigation charts, shoreline position and a bathymetry data were extracted to create a time series of change until the present. The estuarine area has decreased, yet the volume of the estuary has increased due to dredging.
 
-<object data="/assets/img/FIg4_Bathy_thalweg_transect.pdf" type="application/pdf" width="900px" height="1000px">
+<object data="/assets/img/FIg4_Bathy_thalweg_transect.pdf" type="application/pdf" width="600px" height="500px">
     <embed src="https://github.com/tedconroy/tedconroy.github.io/tree/master">
     </embed>
 </object>
