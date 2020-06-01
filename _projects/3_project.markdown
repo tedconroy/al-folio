@@ -9,9 +9,5 @@ I am researching the water and suspended sediment movement in Hawke Bay, NZ. The
 
 <img src="/assets/img/s2_ex1.png" alt="ex" width="900"/>
 
-<div class="img_row">
-    <img class="col two left" src="{{ site.baseurl }}/assets/img/s2_ex3.png" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/s2_ex2.png" alt="" title="example image"/>
-</div>
-
+<img src="/assets/img/s2_ex3.png" alt="ex" width="900"/>
 images source: ESA Sentinel-2
