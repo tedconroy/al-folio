@@ -14,7 +14,7 @@ news: false
 social: false
 ---
 
-I'm a PhD student at the University of Waikato (NZ) studying physical oceanography and sediment transport in coastal areas. 
+I'm a PhD student at the University of Waikato (Aotearoa NZ) studying physical oceanography and sediment transport in coastal areas. 
 <div class="img_row">
     <img class="col two left" src="{{ site.baseurl }}/assets/img/leconte_1.jpeg" alt="" title="example image"/>
     <img class="col one right" src="{{ site.baseurl }}/assets/img/prof_pic.jpg" alt="" title="example image"/>
