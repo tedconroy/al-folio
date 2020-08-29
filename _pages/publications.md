@@ -5,11 +5,11 @@ title: publications
 ---
 [google scholar profile](https://scholar.google.com/citations?user=EdsOl-AAAAAJ&hl=en)
 
-submitted
+**submitted**
 
 1\. Eidam, E.F., D.A. Sutherland, D.K. Ralston, **T. Conroy**, B. Dye, 2020: Shifting sediment dynamics: responses of the Coos Bay Estuary to 150 years of modification. *submitted*
 
-published
+**published**
 
 2\. Eidam, E.F., D.A. Sutherland, D.K. Ralston, B. Dye, **T. Conroy**, J. Schmitt, P. Ruggiero, and J. Wood, 2020: Impacts of 150 years of shoreline and bathymetric change in the Coos Estuary, Oregon, USA. *Estuaries and Coasts*, https://doi.org/10.1007/s12237-020-00732-1.
 
