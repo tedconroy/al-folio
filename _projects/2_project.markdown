@@ -14,14 +14,14 @@ Using historic navigation charts, shoreline position and a bathymetry data were 
     </embed>
 </object>
 
-A numerical ocean model of the estuary was used with three configurations: 1) pre-dredging state, 2) current state, and 3) proposed state with a deeper navigation channel. It was found that the deepening has altered the tidal dynamics and increased the salinity intrusion into the estuary. Although the tidal salt flux is the dominant landward salt flux component (Conroy et. al 2020), the increase in depth has increased the subtidal salt flux component, decreased the tidal salt flux component, and the total landward salt flux has increased, increasing the salinity intrusion.
+A numerical ocean model of the estuary was used with three configurations: 1) pre-dredging state, 2) current state, and 3) proposed state with a deeper navigation channel. It was found that the deepening has altered the tidal dynamics and increased the salinity intrusion into the estuary. Although the tidal salt flux is the dominant landward salt flux component (Conroy et. al 2020), the increase in depth has increased the subtidal salt flux component, decreased the tidal salt flux component, and the total landward salt flux has increased, increasing the salinity intrusion. 
 
-The reduction in tidal salt flux is consistent with being proportional to the along channel velocity magnitude, which decreased corresponding with a deeper channel. This work highlights that altering an estuary's geometry can influence salt flux mechanisms and ultimately alter the salinity distribution in an estuary.
+The reduction in tidal salt flux is consistent with being proportional to the along channel velocity magnitude, which decreased corresponding with a deeper channel. This work highlights that altering an estuary's geometry can influence salt flux mechanisms and ultimately alter the salinity distribution in an estuary. 
 
-This work was led by [Dr. Emily Eidam](https://marine.unc.edu/people/faculty/emily-eidam/) and has now been accepted at Estuaries and Coasts.
 
 **References**----------------------------------
 
-Conroy, T., Sutherland, D.A. and Ralston, D.K., 2020. Estuarine exchange flow variability in a seasonal, segmented estuary. Journal of Physical Oceanography.
+Conroy, T., D.A. Sutherland, and D.K. Ralston, 2020: Estuarine exchange flow variability in a seasonal, segmented estuary. Journal of Physical Oceanography, https://doi.org/10.1175/JPO-D-19-0108.1.
 
-Ralston, D.K. and Geyer, W.R., 2019. Response to Channel Deepening of the Salinity Intrusion, Estuarine Circulation, and Stratification in an Urbanized Estuary. Journal of Geophysical Research: Oceans, 124(7), pp.4784-4802.
+Eidam, E.F., D.A. Sutherland, D.K. Ralston, B. Dye, T. Conroy, J. Schmitt, P. Ruggiero, and J. Wood, 2020: Impacts of 150 years of shoreline and bathymetric change in the Coos Estuary, Oregon, USA. Estuaries and Coasts, https://doi.org/10.1007/s12237-020-00732-1.
+
