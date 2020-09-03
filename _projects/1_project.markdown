@@ -17,7 +17,7 @@ I worked with [Dave Sutherland](https://www.oceanice.org) and used the [Finite V
 </object>
 (a) Elevation map of the U.S. Pacific Northwest coastline. The shelf break (200-m contour) is shaded in gray, and the numerical model domain is shown in the black outline. The red star shows the location of the Coos Estuary. The main figure shows the bathymetry of the estuary (m referenced to mean sea level) and numerical model domain of the Coos Estuary. The red labels correspond to distance (km) from the mouth of the estuary along the thalweg. The ob- servational stations are labeled numerically on the map, and the corresponding names of the stations are listed in Table 1. (b) The unstructured numerical model grid at the mouth of the estuary, which is outlined in red in the main figure. (c) Depth of the thalweg (m) up the Coos River, Isthmus Slough, and South Slough. (d) Mean cross-sectional area (m2) of channels in (c). The points represent cross sections where flux calculations are performed.
 
-<video width="320" height="240" controls>
+<video width="500" height="900" controls>
   <source src="/assets/img/movie.mp4" type="video/mp4">
 </video>
 
