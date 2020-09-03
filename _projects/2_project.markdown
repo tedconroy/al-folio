@@ -14,7 +14,7 @@ Using historic navigation charts, shoreline position and a bathymetry data were 
     </embed>
 </object>
 
-A numerical ocean model of the estuary was used with three configurations: 1) pre-dredging state, 2) current state, and 3) proposed state with a deeper navigation channel. It was found that the deepening has altered the tidal dynamics and increased the salinity intrusion into the estuary. Although the tidal salt flux is the dominant landward salt flux component (Conroy et. al 2020), the increase in depth has increased the subtidal salt flux component, decreased the tidal salt flux component, and the total landward salt flux has increased, increasing the salinity intrusion. 
+A numerical ocean model of the estuary was used with three configurations: **1)** pre-dredging state, **2)** current state, and **3)** proposed state with a deeper navigation channel. It was found that the deepening has altered the tidal dynamics and increased the salinity intrusion into the estuary. Although the tidal salt flux is the dominant landward salt flux component (Conroy et. al 2020), the increase in depth has increased the subtidal salt flux component, decreased the tidal salt flux component, and the total landward salt flux has increased, increasing the salinity intrusion. 
 
 The reduction in tidal salt flux is consistent with being proportional to the along channel velocity magnitude, which decreased corresponding with a deeper channel. This work highlights that altering an estuary's geometry can influence salt flux mechanisms and ultimately alter the salinity distribution in an estuary. 
 
