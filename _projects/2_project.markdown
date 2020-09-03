@@ -19,7 +19,7 @@ A numerical ocean model of the estuary was used with three configurations: **1)*
 The reduction in tidal salt flux is consistent with being proportional to the along channel velocity magnitude, which decreased corresponding with a deeper channel. This work highlights that altering an estuary's geometry can influence salt flux mechanisms and ultimately alter the salinity distribution in an estuary. 
 
 
-**References**----------------------------------
+**References**
 
 Conroy, T., D.A. Sutherland, and D.K. Ralston, 2020: Estuarine exchange flow variability in a seasonal, segmented estuary. Journal of Physical Oceanography, https://doi.org/10.1175/JPO-D-19-0108.1.
 
