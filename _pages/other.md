@@ -17,8 +17,3 @@ In my free time I enjoy surfing, being in the mountains, and climbing rocks.
     <img class="col two left" src="{{ site.baseurl }}/assets/img/mountains_1.jpeg" alt="" title="example image"/>
     <img class="col one left" src="{{ site.baseurl }}/assets/img/climbing_1.jpeg" alt="" title="example image"/>
 </div>
-
-<div class="img_row">
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/surf.JPG" alt="" title="example image"/>
-    <img class="col two left" src="{{ site.baseurl }}/assets/img/baja.jpg" alt="" title="example image"/>
-</div>
