@@ -25,7 +25,9 @@ The inflow corresponds with the tidal volume flux, which is converted to a TEF i
 
 This work is [published in the Journal of Physical Oceanography](https://journals.ametsoc.org/doi/abs/10.1175/JPO-D-19-0108.1) with coauthors Dave Sutherland and [Dave Ralston](https://www2.whoi.edu/staff/dralston/). I put some FVCOM setup and processing codes [here](https://github.com/tedconroy/ocean-model-codes).
 
-**References**----------------------------------
+
+
+**References**
 
 Sutherland, D.A. and O'Neill, M.A., 2016. Hydrographic and dissolved oxygen variability in a seasonal Pacific Northwest estuary. Estuarine, Coastal and Shelf Science, 172, pp.47-59.
 
