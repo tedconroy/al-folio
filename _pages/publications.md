@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 ---
-[google scholar profile](https://scholar.google.com/citations?user=EdsOl-AAAAAJ&hl=en)
+[link to Google Scholar profile](https://scholar.google.com/citations?user=EdsOl-AAAAAJ&hl=en)
 
 **submitted**
 
