@@ -15,7 +15,7 @@ I worked with [Dave Sutherland](https://www.oceanice.org) and used the [Finite V
   <source src="/assets/img/movie_cut.mp4" type="video/mp4">
 </video>
 
-The Total Exchange Flow method (MacCready 2011) was used to quantify the estuarine exchange flow for an annual model run. This method is advantageous because it incorporates both tidal and subtidal motions by using a salinity coordinate instead of an Eulerian coordinate for calculating the exchange flow through cross sections in the estuary. Using the Total Exchange Flow, we found that the tidal component is the dominant component (compared with the subtidal), and that although the along estuary baroclinic pressure gradient changes quite a bit over the year, the inflowing component of the exchange flow doesn't change very much seasonally, but rather with the spring-neap cycle.
+The Total Exchange Flow method (MacCready 2011) was used to quantify the estuarine exchange flow for an annual model run. This method is advantageous because it incorporates both tidal and subtidal motions by using a salinity coordinate instead of an Eulerian coordinate for calculating the exchange flow through cross sections in the estuary. Using the Total Exchange Flow, we found that the tidal component is the dominant component (compared with the subtidal), and that although the along estuary baroclinic pressure gradient changes quite a bit over the year, the inflowing component of the exchange flow doesn't change very much seasonally, but rather with the spring-neap cycle. The plots below summarize the results over the year of 2014.
 
 <img src="/assets/img/Fig7.png" alt="ex" width="700"/>
  
