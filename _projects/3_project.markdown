@@ -10,3 +10,7 @@ I am researching the water and suspended sediment movement in Hawke Bay, NZ. The
 <img src="/assets/img/s2_plume.png" alt="ex" width="900"/>
 
 images source: European Space Agency, Sentinel-2
+
+Here is a nice Youtube video that some one took of the Wairoa River mouth:
+[![](http://img.youtube.com/vi/YM6i90B7Vpk/0.jpg)](http://www.youtube.com/watch?v=YM6i90B7Vpk "")
+
