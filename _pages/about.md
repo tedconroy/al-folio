@@ -17,10 +17,5 @@ social: false
 I'm a PhD student at the University of Waikato (Aotearoa NZ) studying physical oceanography and sediment transport in coastal areas. 
 
 <div class="img_row">
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/pic_3.jpeg" alt="" title="example image"/>
-    <img class="col two right" src="{{ site.baseurl }}/assets/img/coos_1.jpeg" alt="" title="example image"/>
-</div>
-
-<div class="img_row">
-    <img class="col three left" src="{{ site.baseurl }}/assets/img/sat_1.jpeg" alt="" title="example image"/>
+    <img class="col three left" src="{{ site.baseurl }}/assets/img/sf_plume_s2.png" alt="" title="example image"/>
 </div>
