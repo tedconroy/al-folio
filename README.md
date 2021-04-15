@@ -1,6 +1,6 @@
 # al-folio
 
-This is the repo for my [website](tedconroy.github.io).
+This is the repo for my [website](tedconroy.github.io). I like the template a lot, except that it doesn't look great on mobile devices.
 
 A simple and clean [Jekyll](https://jekyllrb.com/) theme for academics.
 
