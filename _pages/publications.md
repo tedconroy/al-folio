@@ -11,4 +11,5 @@ title: publications
 
 1\. **Conroy, T.**, D.A. Sutherland, and D.K. Ralston, 2020: Estuarine exchange flow variability in a seasonal, segmented estuary. *Journal of Physical Oceanography*, https://doi.org/10.1175/JPO-D-19-0108.1. [pdf](/assets/pdf/conroy_etal_2020.pdf)
 
-<a href="username.github.io/folder/document.pdf" target="_blank">PDF.</a>
+<a href="tedconroy.github.io/blob/master/assets/pdf/conroy_etal_2020.pdf" target="_blank">pdf</a>
+
