@@ -17,7 +17,7 @@ images source: European Space Agency, Sentinel-2
 
 Ocean color data from NASA Modis has been used to 
 
-Code for Modis processing can be found [here](https://github.com/tedconroy/modis-remote-sensing), and click here for a poster presented at the Ocean Sciences 2022 Meeting. 
+Code used for Modis processing can be found [here](https://github.com/tedconroy/modis-remote-sensing), and click here for a poster presented at the Ocean Sciences 2022 Meeting. 
 
 
 
