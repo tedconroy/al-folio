@@ -15,9 +15,13 @@ I'm using a combination of remote sensing, observational data and numerical ocea
 
 images source: European Space Agency, Sentinel-2
 
+# Remote sensing of surface sediment concentration 
+
 Ocean color data from NASA Modis has been used to ... tbc
 
-Code used for Modis processing can be found [here](https://github.com/tedconroy/modis-remote-sensing), and click here for a poster presented at the Ocean Sciences 2022 Meeting. 
+Code used for Modis processing can be found [here](https://github.com/tedconroy/modis-remote-sensing), and click here(soon)for a poster on this work presented at the Ocean Sciences 2022 Meeting. 
 
+# Numerical modeling of river plumes and Bay circulation
+COAWST is used to simulate the 3-d flows of the Bay and multiple river systems. 
 
-
+COAWST set up matlab codes and information about compilation on NeSI can be found [here](https://github.com/tedconroy/ocean-model-codes/tree/master/coawst).
