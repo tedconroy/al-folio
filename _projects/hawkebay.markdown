@@ -24,4 +24,4 @@ Code used for Modis processing can be found [here](https://github.com/tedconroy/
 ### Numerical modeling of river plumes and bay circulation
 COAWST is used to simulate the 3-d flows of the bay and multiple river systems. Multiple nested refinement grids are used to efficiently represent scales from the size of the bay to resolving narrow river mouths. Boundary forcing is sourced from the excellent and open [Moana Hindcast model](https://www.moanaproject.org/hindcast).
 
-COAWST set up matlab codes and information about compilation on NeSI can be found [here](https://github.com/tedconroy/ocean-model-codes/tree/master/coawst).
+COAWST matlab set up codes that I use and information about compilation on the NeSI cluster can be found [here](https://github.com/tedconroy/ocean-model-codes/tree/master/coawst).
