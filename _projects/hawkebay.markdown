@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sediment transport from river plumes
+title: Sediment transport from river plumes in Hawke Bay
 description: 
 img: /assets/img/hawkes_2.png
 
