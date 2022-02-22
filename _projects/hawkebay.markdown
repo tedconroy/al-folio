@@ -15,6 +15,14 @@ images source: European Space Agency, Sentinel-2
 
 This work uses satellite remote sensing to study the surface suspended sediment concentration (SSC) in river plumes, which provides detailed spatial information over a long time record of turbid river plume variability. an average annual flux of 11 million tonnes of suspended sediment is transported into the Bay from four main rivers. Remote sensing imagery from MODIS along with an empirical relation between SSC and remote sensing reflectance, determined from in-situ measurements, are used to create daily estimates of surface sediment concentration in the Bay over the last 20 years. Environmental forcing data is used to create a parameter space of how river plumes from individual rivers respond to varying conditions and influence the spatial scales of initial sediment deposition. Current work in  progress uses the SSC gradient in the plumes to estimate ranges of the effective sediment settling velocity.
 
+<img src="/assets/img/rs_fig1.png" alt="ex" width="700"/>
+
+<img src="/assets/img/rs_fig2.png" alt="ex" width="700"/>
+
+<img src="/assets/img/rs_fig3.png" alt="ex" width="700"/>
+
+<img src="/assets/img/rs_fig4.png" alt="ex" width="700"/>
+
 Code used for Modis processing can be found [here](https://github.com/tedconroy/modis-remote-sensing), and a poster on this work presented at the Ocean Sciences 2022 Meeting can be found [here](/assets/pdf/tconroy_osm_2022.pdf). 
 
 #### **Numerical modeling of river plumes and bay circulation**
