@@ -18,10 +18,10 @@ This work uses satellite remote sensing to study the surface suspended sediment 
 Code used for Modis processing can be found [here](https://github.com/tedconroy/modis-remote-sensing), and click here(soon)for a poster on this work presented at the Ocean Sciences 2022 Meeting. 
 
 #### **Numerical modeling of river plumes and bay circulation**
-COAWST is used to simulate the 3-d flows of the bay and multiple river systems. Multiple nested refinement grids are used to efficiently represent the spatial scales; from the size of the bay to resolving narrow river mouths. Open boundary forcing is sourced from the excellent and open [Moana Hindcast model](https://www.moanaproject.org/hindcast) and atmospheric forcing is from ERA-5. Below is an example run of sea surface salinity.
+COAWST is used to simulate the 3-d flows of the bay and multiple river systems. Multiple nested refinement grids are used to efficiently represent the spatial scales; from the size of the bay to resolving narrow river mouths. Open boundary forcing is sourced from the excellent and open [Moana Hindcast model](https://www.moanaproject.org/hindcast) and atmospheric forcing is from ERA-5. Below is an example run of sea surface salinity, zoomed in on the Wairoa river on the right panel.
 
 <video width="600" controls>
-  <source src="/assets/img/coawst_sss.mp4" type="video/mp4">
+  <source src="/assets/img/coawst_sss.m4v" type="video/mp4">
 </video>
 
 COAWST matlab set up codes that I use and information about compilation on the NeSI cluster can be found [here](https://github.com/tedconroy/ocean-model-codes/tree/master/coawst).
