@@ -7,8 +7,6 @@ I grew up in Half Moon Bay, California. I then went to the University of Hawaii 
 
 I am mostly interested in physical oceanography in coastal areas. These are areas that we can readily visit, observe, and have a significant impact on many peoples lives around the world. 
 
-In my free time I enjoy surfing.
-
 <div class="img_row">
     <img class="col three left" src="{{ site.baseurl }}/assets/img/surf_2.png" alt="" title="surf at undisclosed location"/>
 </div>
