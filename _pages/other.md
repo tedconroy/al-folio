@@ -10,8 +10,3 @@ I am mostly interested in physical oceanography in coastal areas. These are area
 <div class="img_row">
     <img class="col three left" src="{{ site.baseurl }}/assets/img/surf_2.png" alt="" title="surf at undisclosed location"/>
 </div>
-
-<div class="img_row">
-    <img class="col two left" src="{{ site.baseurl }}/assets/img/mountains_1.jpeg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/climbing_1.jpeg" alt="" title="example image"/>
-</div>
